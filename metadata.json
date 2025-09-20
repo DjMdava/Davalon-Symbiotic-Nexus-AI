@@ -1,0 +1,7 @@
+{
+  "name": "Davalon Symbiotic Nexus AI",
+  "description": "A dynamic, adaptive, and interconnected intelligence platform that cultivates a symbiotic partnership with users, establishing Davalon as the central nexus for their digital intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
